@@ -55,7 +55,7 @@ The goal is to calculate the number of clicks from 2021 for each record in the '
    cd bitly-coding-challenge
 
 3. Install Dependencies (if any):
-   No dependencies are required since Python basic libraries are used.
+   Python's core libraries, such as dictionaries and lists, were utilized throughout the project. No external or third-party libraries were installed or employed.
 
 4. Run the code
    Replace 'encodes.csv' and 'decodes.json' with your file paths.
