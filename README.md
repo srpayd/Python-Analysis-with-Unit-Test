@@ -127,7 +127,7 @@ To run the unit tests:
 
 ## Contact
 
-Serap Aydogdu - [linkedin](https://www.linkedin.com/in/srpayd/) - 34serapaydogdu@gmail.com
+Serap Aydogdu - [linkedin](https://www.linkedin.com/in/srpayd/)  |   [medium](https://medium.com/@srpayd)
 
 Project Link: [https://github.com/srpayd/bitly_challenge](https://github.com/srpayd/bitly_challenge)
 
